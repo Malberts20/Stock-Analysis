@@ -5,7 +5,7 @@
 
 Two year perfomance data (years 2017-2018) was analyzed for twelve stocks to evaluate potential investment strategy.  VBA code was utilized to calculate trading volume and returns on an annualized basis for each year.   
 
-Susuquent coding exercise focused on refactoring VBA code to loop through the dataset one time as opposed to looping through each individual stock.
+Subsequent coding exercise focused on refactoring VBA code to loop through the dataset one time as opposed to looping through each individual stock.  Code time was measured to determine if refactoring resulted in more efficient programming.
 
 ## Results
 
