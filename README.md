@@ -20,7 +20,7 @@ Stock performance for 2017 and 2018 (both codes yield same results) given below:
 ![2018_Analysis](https://user-images.githubusercontent.com/71353552/95018828-53865f00-061f-11eb-82f2-a2867abe0096.PNG)
 
 
-Elapsed run time for the refactored code for 2017 and 2018 given below:
+Elapsed run time for the original (left) and refactored code (right) for 2017 and 2018 given below:
 
 
 ![ElapsedTime_Original_2017](https://user-images.githubusercontent.com/71353552/95018927-c2fc4e80-061f-11eb-9b4f-8760adc46ab2.PNG)
@@ -32,8 +32,9 @@ Elapsed run time for the refactored code for 2017 and 2018 given below:
 
 ## Summary
 
-In a summary statement, address the following questions:
-1. What are the advantages or disadvantages of refactoring code?
-2. How do these pros and cons apply to refactoring the original VBA script?
+From stock analysis results (shown above), only two (2) stocks, ENPH and RUN, show positive returns for both years and would be the recommended stocks for potential investment. 
 
+Refactored code improved programming efficiency as run times reduced from approximately 1.5 sec to under 0.35 sec for both years.
+
+The advantages of refactored code results in a program that is more organized and is easier to understand. However, it should be noted that refactoring has diminishing returns and can be costly in terms of both time and money.  It is important that the appropriate time is committed to the requested stock analysis and resulting recommendations as opposed to significant efforts dedicated to code optimization.
 
