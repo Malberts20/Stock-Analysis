@@ -14,6 +14,9 @@ Original VBA Code (green_stocks_final.xlsm): This code calculates annualized vol
 Refactored VBA Code (VBA_Challenge.xlsm) : Code refactored to calculate volume and returns for all stocks in one loop and susequently sent to output.  Code time measured at less than 0.35 seconds for each year.
 
 Stock performance for 2017 and 2018 (both codes yield same results) given below:
+![2017_Analysis](https://user-images.githubusercontent.com/71353552/95018749-dfe45200-061e-11eb-9491-ef8b378278b9.PNG)
+
+
 
 
 
