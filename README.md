@@ -24,8 +24,8 @@ Elapsed run time for the refactored code for 2017 and 2018 given below:
 ![ElapsedTime_Original_2017](https://user-images.githubusercontent.com/71353552/95018927-c2fc4e80-061f-11eb-9b4f-8760adc46ab2.PNG)
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/71353552/95018928-c394e500-061f-11eb-962c-91507a2db5ce.PNG)
 
-
-
+![ElapsedTime_Original_2018](https://user-images.githubusercontent.com/71353552/95018937-cee81080-061f-11eb-961b-0dbe72ca2c4f.PNG)
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/71353552/95018938-cf80a700-061f-11eb-8721-5f27a82cc3d4.PNG)
 
 
 ## Summary
