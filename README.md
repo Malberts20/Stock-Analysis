@@ -23,6 +23,13 @@ Stock performance for 2017 and 2018 (both codes yield same results) given below:
 
 
 
+
+
+
+
+
+
+
 Elapsed run time for the refactored code for 2017 and 2018 given below:
 
 
